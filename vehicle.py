@@ -11,6 +11,6 @@ def vehicle_details(vid, vname, price, yop):
 if __name__ == "__main__":
     vid = 101
     vname = "Alto"
-    price = 600000
+    price = 1
     yop = 2016
     print(vehicle_details(vid, vname, price, yop))
